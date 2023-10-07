@@ -1,4 +1,4 @@
-### Hi there👋! Welcome to my github
+### Hi there👋! Welcome to my github account
 
 #### 🔭 I’m currently doing my master's degree in Computer Engineering at Politecnico di Torino
 
