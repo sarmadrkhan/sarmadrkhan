@@ -2,7 +2,7 @@
 
 #### 🔭 I did my master's degree in Computer Engineering at Politecnico di Torino and I am passionate about web development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadrkhan&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadrkhan&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I have worked with the following tools and technologies
 <p align="center">
