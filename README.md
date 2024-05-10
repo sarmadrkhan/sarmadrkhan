@@ -1,8 +1,9 @@
 ### Hi there👋! Welcome to my GitHub account
 
-#### 🔭 I did my master's degree in Computer Engineering at Politecnico di Torino and I am passionate about web development
+#### 🔭 I did my master's degree in Computer Engineering at Politecnico di Torino and I am passionate about full stack development
 
-##### Currently I am working on a full stack app using Django and React : [Link to Repository](https://github.com/sarmadrkhan/django-react-music)😎 
+##### I recently finished a full stack app using Django and React : [Link to Repository](https://github.com/sarmadrkhan/django-react-fullstack)😎 
+##### Currently, I am working on a NEST JS project 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadrkhan&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
