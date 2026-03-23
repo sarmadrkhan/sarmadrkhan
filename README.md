@@ -1,7 +1,6 @@
 ### Ciao👋! Welcome to my GitHub account
 
-#### 🔭 I did my masters in Computer Engineering at Politecnico di Torino with 'Software' as my major, and I am passionate about full-stack development. 
-#### I haven't updated my GitHub in a while because of working full-time, but hopefully I will add some quality projects slowly as I build them in my free time :)
+#### 🔭 I did my master's degree in Software Engineering at Politecnico di Torino, and I am passionate about full-stack development. 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadrkhan&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
